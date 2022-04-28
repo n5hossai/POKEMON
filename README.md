@@ -31,6 +31,6 @@ python manage.py createsuperuser
 * Using your browser or postman, visit and implement the CRUD functions
 * OR, run:
 ```
-python consum.py
+python consume.py
 ```
 to GET all the objects from the API. Change/Edit the consume.py file to play with the API
